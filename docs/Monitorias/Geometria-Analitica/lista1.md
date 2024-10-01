@@ -49,33 +49,32 @@ Arrumar daqui pra baixo
 
 **d) $\overrightarrow{BG}$**
 
-<details>
-  <summary>Clique para revelar a respsota</summary>
   
-  $$\tag{d.1} \overrightarrow{BG} = \overrightarrow{BC} + \overrightarrow{CG}$$
+$$\tag{d.1} \overrightarrow{BG} = \overrightarrow{BC} + \overrightarrow{CG}$$
 
-  $$\begin{alignat}{1}
-    \overrightarrow{BC} &=  &\overrightarrow{BA} + \overrightarrow{AC} \\
-    \tag{d.2}           &= -&\overrightarrow{AB} + \overrightarrow{AC}
-    \end{alignat}
-  $$
+$$
+  \begin{alignat}{1}
+  \overrightarrow{BC} &=  &\overrightarrow{BA} + \overrightarrow{AC} \\
+  \tag{d.2}           &= -&\overrightarrow{AB} + \overrightarrow{AC}
+  \end{alignat}
+$$
 
-  $$\begin{alignat}{1}
-    \overrightarrow{CG}       &=  \overrightarrow{BF} \\
-    \tag{d.3} &\overset{(a.1)}{=} \overrightarrow{AF} - \overrightarrow{AB}
-    \end{alignat}
-  $$
+$$\begin{alignat}{1}
+  \overrightarrow{CG}       &=  \overrightarrow{BF} \\
+  \tag{d.3} &\overset{(a.1)}{=} \overrightarrow{AF} - \overrightarrow{AB}
+  \end{alignat}
+$$
 
-  $$\begin{alignat}{1}
-    \overrightarrow{BG} &\overset{(d.1)}{=} &\overrightarrow{BC}                        &+ &\overrightarrow{CG} \\
-                      &\overset{(d.2)}{=} &-\overrightarrow{AB} + \overrightarrow{AC} &+ &\overrightarrow{CG} \\
-                      &\overset{(d.3)}{=} &-\overrightarrow{AB} + \overrightarrow{AC} &+ &\overrightarrow{AF} - \overrightarrow{AB} \\
-    \end{alignat}
-  $$
+$$\begin{alignat}{1}
+  \overrightarrow{BG} &\overset{(d.1)}{=} &\overrightarrow{BC}                        &+ &\overrightarrow{CG} \\
+                    &\overset{(d.2)}{=} &-\overrightarrow{AB} + \overrightarrow{AC} &+ &\overrightarrow{CG} \\
+                    &\overset{(d.3)}{=} &-\overrightarrow{AB} + \overrightarrow{AC} &+ &\overrightarrow{AF} - \overrightarrow{AB} \\
+  \end{alignat}
+$$
 
-  $$\overrightarrow{BG}=\boxed{-2\overrightarrow{AB} + \overrightarrow{AC} + \overrightarrow{AF}}$$
+$$\overrightarrow{BG}=\boxed{-2\overrightarrow{AB} + \overrightarrow{AC} + \overrightarrow{AF}}$$
   
-</details>
+
 
 
 **e) $\overrightarrow{AG}$**
