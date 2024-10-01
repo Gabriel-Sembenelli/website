@@ -1,0 +1,109 @@
+site_name: Gabriel Sembenelli
+site_description: My personal website!
+site_url: https://gabriel-sembenelli.github.io/
+
+theme:
+  name: material
+  language: en
+  favicon: images/frog-solid.png
+  icon:
+    logo: fontawesome/solid/frog
+    #logo: fontawesome/solid/robot
+  
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: teal
+      accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode    
+      primary: teal
+      accent: orange
+
+plugins:
+  - social
+  - search
+  # - blog
+
+nav:
+  # - Testes: test.md
+  - Home: index.md
+  - Geometria Analítica:
+    - Referências: Monitorias/Geometria-Analitica/bibliografia.md
+    - Lista 1: Monitorias/Geometria-Analitica/lista1.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+extra:
+  css:
+    - css/custom.css
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Gabriel-Sembenelli
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/gabriel-%C3%A2ngelo-sembenelli-04205b194/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@gabrielsembenelli7633
+
+copyright: |
+  &copy; 2024 <a href="https://github.com/Gabriel-Sembenelli"  target="_blank" rel="noopener">Gabriel Ângelo Sembenelli</a>
