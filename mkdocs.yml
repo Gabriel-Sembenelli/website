@@ -2,6 +2,7 @@ site_name: Gabriel Sembenelli
 site_description: My personal website!
 site_url: https://gabriel-sembenelli.github.io/
 
+# THEME ------------------------------------------------------------------------
 theme:
   name: material
   language: en
@@ -53,17 +54,24 @@ theme:
       primary: teal
       accent: orange
 
+# NAVIGATION -------------------------------------------------------------------
+nav:
+  # - Testes: test.md
+  - Home: index.md
+  - Quads:
+    - Q3.24:
+      - ALA: Quads/Q3.24/ALA.md
+      - CDP: Quads/Q3.24/CDP.md
+      - NRES: Quads/Q3.24/NRES.md
+      - AP: Quads/Q3.24/AP.md
+  - Geometria Analítica:
+    - Referências: Monitorias/Geometria-Analitica/bibliografia.md
+    - Lista 1: Monitorias/Geometria-Analitica/lista1.md
+
 plugins:
   - social
   - search
   # - blog
-
-nav:
-  # - Testes: test.md
-  - Home: index.md
-  - Geometria Analítica:
-    - Referências: Monitorias/Geometria-Analitica/bibliografia.md
-    - Lista 1: Monitorias/Geometria-Analitica/lista1.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
