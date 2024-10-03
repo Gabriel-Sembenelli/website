@@ -13,3 +13,7 @@
 - TAO, Terence. **Analysis I**. 2. ed. New Delhi, IND: Hindustan Book Agency, c2009. (Texts and readings in mathematics, 37).
 - ABBOTT, Stephen et al. **Understanding analysis**. New York: Springer, 2001.
 - LAY, Steven R. **Analysis: with an introduction to proof**. 4. ed. Upper Saddle River, USA: Pearson, 2006. x, 384 p.
+
+### Achei por aí
+
+[Playlist do Elon Lages - Análise na Reta - IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQPllPLVhXQgloJKdbNnfIN)
