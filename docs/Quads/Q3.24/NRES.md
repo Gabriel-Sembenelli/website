@@ -4,8 +4,8 @@
 
 ## Atendimento
 
-- **Daniel** - segunda das 17:00 às 19:00 (814 Bloco B)
-- **Danilo** - quarta das 17:30 às 19:00 (?)
+- **Daniel** - segunda das 17:00 às 19:00 - 814-B
+- **Danilo** - quarta das 17:30 às 19:00 - 308-3
 
 ## Referências
 
