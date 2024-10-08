@@ -4,8 +4,8 @@
 
 ## Atendimento
 
-- **Daniel** - quinta das 15:00-17:00
-- **Rafael** - quarta das 12:00-16:00
+- **Daniel** - quinta das 15:00-17:00 - 814-B
+- **Rafael** - quarta das 12:00-16:00 - 801-B
 - Grupo no Telegram
 
 ## Referências
