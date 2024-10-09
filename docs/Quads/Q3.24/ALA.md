@@ -1,6 +1,12 @@
 # Álgebra Linear Avançada
 
+**Roldão da Rocha Jr.**
+
 Tudo pelo SIGAA
+
+## Atendimento
+
+Segunda-feira 12:00 - 932-B
 
 ## Referências
 

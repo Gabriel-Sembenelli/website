@@ -1,11 +1,13 @@
 # Números Reais e Sequências
 
+**Daniel Miranda**
+
 [Moodle](https://moodle.ufabc.edu.br/course/view.php?id=2944)
 
 ## Atendimento
 
-- **Daniel** - segunda das 17:00 às 19:00 (814 Bloco B)
-- **Danilo** - quarta das 17:30 às 19:00 (?)
+- **Daniel** - segunda das 17:00 às 19:00 - 814-B
+- **Danilo** - quarta das 17:30 às 19:00 - 308-3
 
 ## Referências
 

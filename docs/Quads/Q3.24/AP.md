@@ -1,6 +1,12 @@
 # Algoritmos Probabilísticos
 
+**Jair Donadelli**
+
 [Site da disciplina](http://professor.ufabc.edu.br/~jair.donadelli/algprob/)
+
+## Atendimento
+
+A qualquer hora, só aparecer na 546-2
 
 ## Referências
 
