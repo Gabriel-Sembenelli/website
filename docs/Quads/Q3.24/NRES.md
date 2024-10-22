@@ -4,6 +4,8 @@
 
 [Moodle](https://moodle.ufabc.edu.br/course/view.php?id=2944)
 
+[Site do Daniel Miranda](https://danielmiranda.prof.ufabc.edu.br/)
+
 ## Atendimento
 
 - **Daniel** - segunda das 17:00 às 19:00 - 814-B
