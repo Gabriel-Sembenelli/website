@@ -41,6 +41,6 @@ Science & Technology + Mathematics + Computer Science student at Federal Univers
 
 [NRES - Números Reais e Sequências](Quads/Q3.24/NRES.md)
 
-[AP - Algoritmos Probabilísticos](Quads/Q3.24/NRES.md)
+[AP - Algoritmos Probabilísticos](Quads/Q3.24/AP.md)
 
 [GA - Geometria Analítica (monitoria)](Monitorias/Geometria-Analitica/bibliografia.md)
