@@ -7,7 +7,7 @@ de $\overrightarrow{AB}$, $\overrightarrow{AC}$ e $\overrightarrow{AF}$:
 **a) $\overrightarrow{BF}$**
 
 <details>
-  <summary>Clique para revelar a respsota</summary>
+  <summary>Clique para revelar a resposta</summary>
   
   Note que
   
@@ -21,7 +21,7 @@ de $\overrightarrow{AB}$, $\overrightarrow{AC}$ e $\overrightarrow{AF}$:
 **b) $\overrightarrow{AG}$**
 
 <details>
-  <summary>Clique para revelar a respsota</summary>
+  <summary>Clique para revelar a resposta</summary>
   
   Note que
   
@@ -41,7 +41,7 @@ Arrumar daqui pra baixo
 **c) $\overrightarrow{AE}$**
 
 <details>
-  <summary>Clique para revelar a respsota</summary>
+  <summary>Clique para revelar a resposta</summary>
   
   $$\overrightarrow{AE} = \overrightarrow{BF} \overset{(a.1)}{=} \boxed{\overrightarrow{AF} - \overrightarrow{AB}}$$
   
@@ -84,7 +84,7 @@ Repetido em (b)
 **f) $\overrightarrow{AB} + \overrightarrow{FG}$**
 
 <details>
-  <summary>Clique para revelar a respsota</summary>
+  <summary>Clique para revelar a resposta</summary>
   
   $$
     \tag{f.1}
@@ -102,7 +102,7 @@ Repetido em (b)
 **g) $\overrightarrow{AD} + \overrightarrow{HG}$**
 
 <details>
-  <summary>Clique para revelar a respsota</summary>
+  <summary>Clique para revelar a resposta</summary>
   
   $$
     \overrightarrow{AD} + \overrightarrow{HG}
@@ -116,7 +116,7 @@ Repetido em (b)
 **h) $2\overrightarrow{AD} - \overrightarrow{FG} - \overrightarrow{BH} + \overrightarrow{GH}$**
 
 <details>
-  <summary>Clique para revelar a respsota</summary>
+  <summary>Clique para revelar a resposta</summary>
   
 $$
 \overrightarrow{AD} = \overrightarrow{EH} = \overrightarrow{FG}
