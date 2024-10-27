@@ -2,7 +2,7 @@
 
 ## About me
 
-![me](images/me.jpg){ align=left }
+![me](images/me.jpg){ align=left style="height:150px;width:150px" }
 
 Mathematics and Computing lover
 
