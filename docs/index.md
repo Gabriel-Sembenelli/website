@@ -2,6 +2,8 @@
 
 ## About me
 
+![me](images/me.jpg){ align=left }
+
 Mathematics and Computing lover
 
 Science & Technology + Mathematics + Computer Science student at Federal University of ABC
