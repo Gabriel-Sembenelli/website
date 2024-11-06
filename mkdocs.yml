@@ -58,15 +58,16 @@ theme:
 nav:
   # - Testes: test.md
   - Home: index.md
-  - Quads:
+  - Estudo:
     - Q3.24:
       - ALA: Quads/Q3.24/ALA.md
       - CDP: Quads/Q3.24/CDP.md
       - NRES: Quads/Q3.24/NRES.md
       - AP: Quads/Q3.24/AP.md
-  - Geometria Analítica:
-    - Referências: Monitorias/Geometria-Analitica/bibliografia.md
-    - Lista 1: Monitorias/Geometria-Analitica/lista1.md
+  - Monitorias:
+    - Geometria Analítica:
+      - Referências: Monitorias/Geometria-Analitica/bibliografia.md
+  - My Heroes: my-heroes.md
 
 plugins:
   - social
