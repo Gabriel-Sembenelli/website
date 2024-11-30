@@ -70,6 +70,7 @@ nav:
     - Geometria Analítica:
       - Referências: Monitorias/Geometria-Analitica/bibliografia.md
   - My Heroes: my-heroes.md
+  - Utilidades: utilidades.md
 
 plugins:
   - social
