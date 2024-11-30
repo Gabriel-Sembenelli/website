@@ -64,6 +64,8 @@ nav:
       - CDP: Quads/Q3.24/CDP.md
       - NRES: Quads/Q3.24/NRES.md
       - AP: Quads/Q3.24/AP.md
+    - Q1.25:
+      - AR1: Quads/Q1.25/AR1.md
   - Monitorias:
     - Geometria Analítica:
       - Referências: Monitorias/Geometria-Analitica/bibliografia.md
