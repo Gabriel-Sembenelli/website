@@ -16,3 +16,7 @@ Segunda-feira 12:00 - 932-B
 - GEL’FAND, Izrail Moiseevich. **Lectures on linear algebra**. Tradução de Abe Shenitzer. New York, USA: Dover Publications, 1961. 185 p., il.
 - HOFFMAN, Kenneth; KUNZE, Ray Alden. **Linear algebra**. 2. ed. Upper Saddle River, USA: Prentice Hall, 1971. viii, 407 p., il.
 - KOSTRIKIN, A. I.; MANIN, Y. I. **Linear algebra and geometry**. New York, USA: Gordon & Breach Science Publishers, 1989. ix, 309 p., il. (Algebra, logic, and applications, 1).
+
+### Achei por aí
+- Notas de aula - Daniel Miranda
+- [Playlist no Youtube](https://youtube.com/playlist?list=PL2GX-PfA55MFsVwU3VZqq2LH0tuo_C4Cr) - Daniel Miranda
