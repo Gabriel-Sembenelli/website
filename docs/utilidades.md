@@ -22,7 +22,8 @@
 
 ## Outros
 
-[Soluções Manfredo, Elon, Hartshorne](https://sites.google.com/view/gustavoaraujo/para-estudantes?authuser=0)
+- [LibreTexts](https://one.libretexts.org/home)
+- [Soluções Manfredo, Elon, Hartshorne](https://sites.google.com/view/gustavoaraujo/para-estudantes?authuser=0)
 
 Vá na [sophia UFABC](https://biblioteca.ufabc.edu.br/), pesquise por ASSUNTO e então "MATEMÁTICA - PROBLEMAS E EXERCÍCIOS". Seja feliz.
 
