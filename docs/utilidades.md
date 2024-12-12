@@ -10,6 +10,7 @@
 ## Probabilidade
 - [Probability Course](https://www.probabilitycourse.com/)
 - [StatLect - Fundamentals of Probability](https://www.statlect.com/fundamentals-of-probability/)
+- [Probability, Mathematical Statistics, and Stochastic Processes](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)), Kyle Siegrist
 
 ## Number Theory
 - [Discovering Number Theory](https://www.math.uh.edu/~minru/web/dnt.html)
