@@ -7,6 +7,10 @@
 - [Logic and Mathematical Reasoning: an introduction to proof writing](https://www.siue.edu/~jloreau/courses/math-223/notes/intro-proofs-book.html)
 - [PLP: An introduction to mathematical proof](https://personal.math.ubc.ca/~PLP/book/plp.html)
 
+## Probabilidade
+- [Probability Course](https://www.probabilitycourse.com/)
+- [StatLect - Fundamentals of Probability](https://www.statlect.com/fundamentals-of-probability/)
+
 ## Number Theory
 - [Discovering Number Theory](https://www.math.uh.edu/~minru/web/dnt.html)
 - [Playlist - Analytic Number Theory](https://www.youtube.com/playlist?list=PLbaA3qJlbE93DiTYMzl0XKnLn5df_QWqY)
