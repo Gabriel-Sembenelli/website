@@ -11,6 +11,8 @@
 - [Probability Course](https://www.probabilitycourse.com/)
 - [StatLect - Fundamentals of Probability](https://www.statlect.com/fundamentals-of-probability/)
 - [Probability, Mathematical Statistics, and Stochastic Processes](https://stats.libretexts.org/Bookshelves/Probability_Theory/Probability_Mathematical_Statistics_and_Stochastic_Processes_(Siegrist)), Kyle Siegrist
+- [Normal Distribution Calculator - Geogebra](https://www.geogebra.org/m/W9Nz53Ct)
+- [Normal Distribution Calculator - Matt Bognar](https://homepage.divms.uiowa.edu/~mbognar/applets/normal.html)
 
 ## Number Theory
 - [Discovering Number Theory](https://www.math.uh.edu/~minru/web/dnt.html)
