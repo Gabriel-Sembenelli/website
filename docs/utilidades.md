@@ -22,6 +22,7 @@
 ## Olimpíadas
 - [Aulas para OBM Nível U](https://www.youtube.com/playlist?list=PLpizEtrJatZE7Dy-PL_iFEBa9aD06apIm)
 - [Keepo - Matemática7pi](https://keepo.io/matematica7pi/)
+- [Fandom - Olimpédia](https://olimpedia.fandom.com/pt-br/wiki/Desigualdade_de_Chebyshev)
 
 ## Outros
 
