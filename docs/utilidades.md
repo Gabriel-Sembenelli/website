@@ -1,5 +1,19 @@
 # Utilidades
 
+## Cheat Sheets
+#### Maths + Computer Science
+- [Theoretical Computer Science Cheat Sheet](https://tug.org/texshowcase/cheat.pdf)
+- [kactl](https://nbviewer.org/github/kth-competitive-programming/kactl/blob/main/kactl.pdf) ([GitHub repo](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf))
+- [M. Sambinelli](http://professor.ufabc.edu.br/~m.sambinelli/global/resumo-matematica.pdf)
+- [Symbolab](https://www.symbolab.com/cheat-sheets/Trigonometry#)
+#### LaTeX
+- [$2_\varepsilon$ cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf) ([main link](https://wch.github.io/latexsheet/))
+- [QuickRef](https://quickref.me/latex.html)
+- [The Not So Short Introduction to LaTeX](https://drive.google.com/drive/folders/1EK5THUv0Nzuk1xlAynOzutsu3nOQC4yw)
+#### Mathematica Software
+- [cc1](https://appliedmaths.sun.ac.za/~htouchette/archive/notes/mathematicacmds1_2.pdf)
+- [cc2](http://porthos.ist.utl.pt/docs/Mathematica/mathqkref.pdf)
+
 ## Proof Writing
 - [Proof Writing](https://youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-&si=TJGouMzxLpvylKIT), Michael Penn
 - [How to Prove It](https://users.metu.edu.tr/serge/courses/111-2011/textbook-math111.pdf), Daniel J. Velleman
