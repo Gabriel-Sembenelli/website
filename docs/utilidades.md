@@ -10,6 +10,7 @@
 - [$2_\varepsilon$ cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf) ([main link](https://wch.github.io/latexsheet/))
 - [QuickRef](https://quickref.me/latex.html)
 - [The Not So Short Introduction to LaTeX](https://drive.google.com/drive/folders/1EK5THUv0Nzuk1xlAynOzutsu3nOQC4yw)
+- [Short Math Guide for LaTeX](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
 #### Mathematica Software
 - [cc1](https://appliedmaths.sun.ac.za/~htouchette/archive/notes/mathematicacmds1_2.pdf)
 - [cc2](http://porthos.ist.utl.pt/docs/Mathematica/mathqkref.pdf)
