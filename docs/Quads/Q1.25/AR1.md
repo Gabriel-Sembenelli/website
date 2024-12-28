@@ -21,10 +21,13 @@
     - [2016](https://www.youtube.com/playlist?list=PLun8-Z_lTkC5HAjzXCLEx0gQkJZD4uCtJ)
     - [2018](https://www.youtube.com/playlist?list=PLun8-Z_lTkC6qJF1sVh3_Hx7aL6FPd0IN)
     - [2024](https://www.youtube.com/playlist?list=PLun8-Z_lTkC6pHUNY-pp7ccWj-ylCtNG8)
-- [YouTube - Solutions by rpmath](https://www.youtube.com/playlist?list=PLNy8RHRFgBXeZTNEEqAVJNl4x8gJoFmtA)
 - **George M. Bergman's supplements** ([site](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin))
     - [Last revision by R. Hass](https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_exs_Hass.pdf)
     - [Comments and Errata/Addenda](https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_notes.pdf)
+- **Solutions**
+    - [YouTube - rpmath](https://www.youtube.com/playlist?list=PLNy8RHRFgBXeZTNEEqAVJNl4x8gJoFmtA)
+    - [Selected Solutions by Wentao Wu](https://pages.cs.wisc.edu/~wentaowu/other-docs/POMA_Solution_Sheet.pdf)
+    - [Blog - LinearAlgebras](https://linearalgebras.com/solution-baby-rudin.html)
 
 ### Materiais que o Renzo compartilhou
 
