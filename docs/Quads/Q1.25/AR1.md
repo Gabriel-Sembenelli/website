@@ -26,8 +26,9 @@
     - [Comments and Errata/Addenda](https://math.berkeley.edu/~gbergman/ug.hndts/m104_Rudin_notes.pdf)
 - **Solutions**
     - [YouTube - rpmath](https://www.youtube.com/playlist?list=PLNy8RHRFgBXeZTNEEqAVJNl4x8gJoFmtA)
-    - [Selected Solutions by Wentao Wu](https://pages.cs.wisc.edu/~wentaowu/other-docs/POMA_Solution_Sheet.pdf)
     - [Blog - LinearAlgebras](https://linearalgebras.com/solution-baby-rudin.html)
+    - [Solverer website](https://solverer.com/library/walter_rudin/principles_of_mathematical_analysis)
+    - [Selected Solutions by Wentao Wu](https://pages.cs.wisc.edu/~wentaowu/other-docs/POMA_Solution_Sheet.pdf)
 
 ### Materiais que o Renzo compartilhou
 
