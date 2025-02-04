@@ -11,3 +11,15 @@ This website was made using Material for MkDocs, as well as GitHub Pages.
 - [GitHub Pages](https://pages.github.com/)
 - [Markdown](https://www.markdownguide.org/extended-syntax/)
 - [KaTeX](https://katex.org/docs/supported)
+
+## Codespaces
+
+`python -m venv venv`
+
+`source venv/bin/activate`
+
+`pip install mkdocs-material`
+
+`pip install mkdocs-material[imaging]`
+
+`mkdocs serve`
