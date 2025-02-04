@@ -19,28 +19,24 @@ Science & Technology + Mathematics + Computer Science student at Federal Univers
 
 | Hora    | Segunda        | Terça        | Quarta               | Quinta          | Sexta                |
 | :-----: | :------------: | :----------: | :------------------: | :-------------: | :------------------: |
-| 08 - 09 |                |              | ALA - S-301-2        |                 |                      |
-| 09 - 10 |                |              | ALA - S-301-2        |                 |                      |
-| 10 - 11 | ALA - S-305-2  |              |                      |                 | ALA - S-301-2        |
-| 11 - 12 | ALA - S-305-2  |              |                      |                 | ALA - S-301-2        |
+| 08 - 09 |                |              | AR1                  |                 |                      |
+| 09 - 10 |                |              | AR1                  |                 |                      |
+| 10 - 11 |                |              |                      |                 | AR1                  |
+| 11 - 12 |                |              |                      |                 | AR1                  |
 | 12 - 13 |                |              |                      |                 |                      |
 | 13 - 14 |                |              |                      |                 |                      |
-| 14 - 15 |                |              |                      |                 |         GA - S-310-2 |
-| 15 - 16 |                |              | (15:30) GA - S-310-2 |                 | (15:30) GA - S-310-2 |
-| 16 - 17 |                |              |         GA - S-310-2 |                 |                      |
+| 14 - 15 |                |              |                      |                 |                      |
+| 15 - 16 |                |              |                      |                 |                      |
+| 16 - 17 |                |              |                      |                 |                      |
 | 17 - 18 |                |              |                      |                 |                      |
 | 18 - 19 |                |              |                      |                 |                      |
-| 19 - 20 | CDP  - S-301-2 |     IC       |                      | NRES - S-301-2  | AP  - A-113-0        |
-| 20 - 21 | CDP  - S-301-2 |     IC       |                      | NRES - S-301-2  | AP  - A-113-0        |
-| 21 - 22 | NRES - S-301-2 | AP - S-214-0 | CDP - S-301-2        |                 |                      |
-| 22 - 23 | NRES - S-301-2 | AP - S-214-0 | CDP - S-301-2        |                 |                      |
+| 19 - 20 | MDO            | TDG          |                      |                 |                      |
+| 20 - 21 | MDO            | TDG          |                      |                 |                      |
+| 21 - 22 |                |              | MDO                  | TDG             |                      |
+| 22 - 23 |                |              | MDO                  | TDG             |                      |
 
-[ALA - Álgebra Linear Avançada](Quads/Q3.24/ALA.md)
+[AR1 - Análise Real I](Quads/Q1.25/AR1.md)
 
-[CDP - Cálculo de Probabilidade](Quads/Q3.24/CDP.md)
+[MDO - Métodos de Otimização](Quads/Q1.25/MDO.md)
 
-[NRES - Números Reais e Sequências](Quads/Q3.24/NRES.md)
-
-[AP - Algoritmos Probabilísticos](Quads/Q3.24/AP.md)
-
-[GA - Geometria Analítica (monitoria)](Monitorias/Geometria-Analitica/bibliografia.md)
+[TDG - Teoria de Grupos](Quads/Q1.25/TDG.md)
