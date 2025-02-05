@@ -58,21 +58,21 @@ theme:
 nav:
   # - Testes: test.md
   - Home: index.md
+  - My Heroes: my-heroes.md
   - Estudo:
+    - Q1.25:
+      - AR1: Quads/Q1.25/AR1.md
+      - MDO: Quads/Q1.25/MDO.md
+      - TDG: Quads/Q1.25/TDG.md
     - Q3.24:
       - ALA: Quads/Q3.24/ALA.md
       - CDP: Quads/Q3.24/CDP.md
       - NRES: Quads/Q3.24/NRES.md
       - AP: Quads/Q3.24/AP.md
-    - Q1.25:
-      - AR1: Quads/Q1.25/AR1.md
-      - MDO: Quads/Q1.25/MDO.md
-      - TDG: Quads/Q1.25/TDG.md
+  - Utilidades: utilidades.md
   - Monitorias:
     - Geometria Analítica:
       - Referências: Monitorias/Geometria-Analitica/bibliografia.md
-  - My Heroes: my-heroes.md
-  - Utilidades: utilidades.md
   - Escrivinhações:
     - Desigualdade de Cauchy-Schwarz: Cauchy-Schwarz.md
 
