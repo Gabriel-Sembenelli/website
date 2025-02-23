@@ -11,6 +11,8 @@
 - [QuickRef](https://quickref.me/latex.html)
 - [The Not So Short Introduction to LaTeX](https://drive.google.com/drive/folders/1EK5THUv0Nzuk1xlAynOzutsu3nOQC4yw)
 - [Short Math Guide for LaTeX](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
+- [TikZit](https://tikzit.github.io/index.html)
+- [TikZ and PGF Manual](https://www.bu.edu/math/files/2013/08/tikzpgfmanual.pdf)
 #### Mathematica Software
 - [cc1](https://appliedmaths.sun.ac.za/~htouchette/archive/notes/mathematicacmds1_2.pdf)
 - [cc2](http://porthos.ist.utl.pt/docs/Mathematica/mathqkref.pdf)
