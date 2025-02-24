@@ -39,6 +39,7 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+    # - content.template
   
   palette:
     - scheme: default
@@ -122,4 +123,4 @@ extra:
       link: https://www.youtube.com/@gabrielsembenelli7633
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/Gabriel-Sembenelli"  target="_blank" rel="noopener">Gabriel Ângelo Sembenelli</a>
+  &copy; 2025 <a href="https://github.com/Gabriel-Sembenelli"  target="_blank" rel="noopener">Gabriel Ângelo Sembenelli</a>
