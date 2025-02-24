@@ -1,10 +1,12 @@
-# Gabriel Ângelo Sembenelli
+# Welcome!
 
-## About me
+Feel free to explore.
 
-Mathematics and Computing lover
+## About Gabriel
 
-Science & Technology + Mathematics + Computer Science student at Federal University of ABC
+Mathematics and Computing lover.
+
+Science & Technology + Mathematics + Computer Science student at [Federal University of ABC](https://www.ufabc.edu.br/).
 
 ## Agenda / Schedule
 
