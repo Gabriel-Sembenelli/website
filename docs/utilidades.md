@@ -48,5 +48,8 @@
 
 Vá na [sophia UFABC](https://biblioteca.ufabc.edu.br/), pesquise por ASSUNTO e então "MATEMÁTICA - PROBLEMAS E EXERCÍCIOS". Seja feliz.
 
+## Last but not least: Life advice, inspiration, etc.
 
-
+- [Randy Pausch Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
+> [Interview](https://www.youtube.com/watch?v=j-a7LRwqwNw)
+- [Thomas Cormen Last Lecture](https://www.youtube.com/watch?v=7uQRrNdpMsU)
