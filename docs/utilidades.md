@@ -53,3 +53,4 @@ Vá na [sophia UFABC](https://biblioteca.ufabc.edu.br/), pesquise por ASSUNTO e 
 - [Randy Pausch Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo)
 > [Interview](https://www.youtube.com/watch?v=j-a7LRwqwNw)
 - [Thomas Cormen Last Lecture](https://www.youtube.com/watch?v=7uQRrNdpMsU)
+- [Grant Sanderson (3blue1brown) Harvey Mudd Commencement Speech 2024](https://www.youtube.com/watch?v=W3I3kAg2J7w)
