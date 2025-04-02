@@ -6,16 +6,22 @@
 - [kactl](https://nbviewer.org/github/kth-competitive-programming/kactl/blob/main/kactl.pdf) ([GitHub repo](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf))
 - [M. Sambinelli](http://professor.ufabc.edu.br/~m.sambinelli/global/resumo-matematica.pdf)
 - [Symbolab](https://www.symbolab.com/cheat-sheets/Trigonometry#)
-#### LaTeX
-- [$2_\varepsilon$ cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf) ([main link](https://wch.github.io/latexsheet/))
-- [QuickRef](https://quickref.me/latex.html)
-- [The Not So Short Introduction to LaTeX](https://drive.google.com/drive/folders/1EK5THUv0Nzuk1xlAynOzutsu3nOQC4yw)
-- [Short Math Guide for LaTeX](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
-- [TikZit](https://tikzit.github.io/index.html)
-- [TikZ and PGF Manual](https://www.bu.edu/math/files/2013/08/tikzpgfmanual.pdf)
 #### Mathematica Software
 - [cc1](https://appliedmaths.sun.ac.za/~htouchette/archive/notes/mathematicacmds1_2.pdf)
 - [cc2](http://porthos.ist.utl.pt/docs/Mathematica/mathqkref.pdf)
+
+## LaTeX
+#### Símbolos e referências rápidas
+- [Detexify](https://detexify.kirelabs.org/classify.html)
+- [$2_\varepsilon$ cheat sheet](https://wch.github.io/latexsheet/latexsheet-a4.pdf) ([main link](https://wch.github.io/latexsheet/))
+- [QuickRef](https://quickref.me/latex.html)
+- [The Comprehensive LaTeX Symbol List](https://linorg.usp.br/CTAN/info/symbols/comprehensive/symbols-a4.pdf)
+#### Guias
+- [The Not So Short Introduction to LaTeX](https://drive.google.com/drive/folders/1EK5THUv0Nzuk1xlAynOzutsu3nOQC4yw)
+- [Short Math Guide for LaTeX](https://tug.ctan.org/info/short-math-guide/short-math-guide.pdf)
+#### Imagens
+- [TikZit](https://tikzit.github.io/index.html)
+- [TikZ and PGF Manual](https://www.bu.edu/math/files/2013/08/tikzpgfmanual.pdf)
 
 ## Proof Writing
 - [Proof Writing](https://youtube.com/playlist?list=PLVMgvCDIRy1x00m7Oo9XzEkDDACeEK_m-&si=TJGouMzxLpvylKIT), Michael Penn
