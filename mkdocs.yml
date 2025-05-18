@@ -70,6 +70,8 @@ nav:
       - CDP: Quads/Q3.24/CDP.md
       - NRES: Quads/Q3.24/NRES.md
       - AP: Quads/Q3.24/AP.md
+    - Q2.24:
+      - ADA: Quads/Q2.24/ADA.md
   - Utilidades: utilidades.md
   - Monitorias:
     - Geometria Analítica:
