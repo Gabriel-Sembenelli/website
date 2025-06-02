@@ -61,17 +61,19 @@ nav:
   - Home: index.md
   - My Heroes: my-heroes.md
   - Estudo:
-    - Q1.25:
-      - AR1: Quads/Q1.25/AR1.md
-      - MDO: Quads/Q1.25/MDO.md
-      - TDG: Quads/Q1.25/TDG.md
-    - Q3.24:
-      - ALA: Quads/Q3.24/ALA.md
-      - CDP: Quads/Q3.24/CDP.md
-      - NRES: Quads/Q3.24/NRES.md
-      - AP: Quads/Q3.24/AP.md
-    - Q2.24:
-      - ADA: Quads/Q2.24/ADA.md
+    - Q24.2:
+      - ADA: Quads/Q24.2/ADA.md
+    - Q24.3:
+      - ALA: Quads/Q24.3/ALA.md
+      - CDP: Quads/Q24.3/CDP.md
+      - NRES: Quads/Q24.3/NRES.md
+      - AP: Quads/Q24.3/AP.md
+    - Q25.1:
+      - AR1: Quads/Q25.1/AR1.md
+      - MDO: Quads/Q25.1/MDO.md
+      - TDG: Quads/Q25.1/TDG.md
+    - Q25.2:
+      - AR2: Quads/Q25.2/AR2.md
   - Utilidades: utilidades.md
   - Monitorias:
     - Geometria Analítica:

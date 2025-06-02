@@ -19,26 +19,25 @@ Science & Technology + Mathematics + Computer Science student at [Federal Univer
   }
 </style>
 
-| Hora    | Segunda       | Terça         | Quarta               | Quinta          | Sexta                |
-| :-----: | :------------:| :----------:  | :------------------: | :-------------: | :------------------: |
-| 08 - 09 |               |               | AR1 - S-301-2        |                 |                      |
-| 09 - 10 |               |               | AR1 - S-301-2        |                 |                      |
-| 10 - 11 |               |               |                      | IC              | AR1 - S-301-2        |
-| 11 - 12 |               |               |                      | IC              | AR1 - S-301-2        |
-| 12 - 13 |               |               |                      |                 |                      |
-| 13 - 14 |               |               |                      |                 |                      |
-| 14 - 15 |               |               |                      |                 |                      |
-| 15 - 16 |               |               |                      |                 |                      |
-| 16 - 17 |               |               |                      |                 |                      |
-| 17 - 18 |               |               |                      |                 |                      |
-| 18 - 19 |               |               |                      |                 |                      |
-| 19 - 20 | MDO - A-113-0 | TDG - S-301-2 |                      |                 |                      |
-| 20 - 21 | MDO - A-113-0 | TDG - S-301-2 |                      |                 |                      |
-| 21 - 22 |               |               | MDO - A-113-0        | TDG - S-301-2   |                      |
-| 22 - 23 |               |               | MDO - A-113-0        | TDG - S-301-2   |                      |
+|  Hora   |    Segunda    |     Terça     |    Quarta     |    Quinta    |     Sexta     |
+|:-------:|:-------------:|:-------------:|:-------------:|:------------:|:-------------:|
+| 08 - 09 | PADPB - 405-2 |               |               |              |  AR2 - 301-2  |
+| 09 - 10 | PADPB - 405-2 |               |               |              |  AR2 - 301-2  |
+| 10 - 11 |               |  AR2 - 301-2  | PADPB - 405-2 |              |               |
+| 11 - 12 |               |  AR2 - 301-2  | PADPB - 405-2 |              |               |
+| 12 - 13 |               |               |               |              |               |
+| 13 - 14 |               |               |               |              |               |
+| 14 - 15 |               |               |               |              |               |
+| 15 - 16 |               |               |               |              |               |
+| 16 - 17 |               |               |               |              |               |
+| 17 - 18 |               |               |               |              |               |
+| 18 - 19 |               |               |               |              |               |
+| 19 - 20 |               |               |               | VCEA - 305-2 | SDLDP - 214-0 |
+| 20 - 21 |               |               |               | VCEA - 305-2 | SDLDP - 214-0 | 
+| 21 - 22 | VCEA - 305-2  | SDLDP - 214-0 |               |              |               |
+| 22 - 23 | VCEA - 305-2  | SDLDP - 214-0 |               |              |               |
 
-[AR1 - Análise Real I](Quads/Q1.25/AR1.md)
-
-[MDO - Métodos de Otimização](Quads/Q1.25/MDO.md)
-
-[TDG - Teoria de Grupos](Quads/Q1.25/TDG.md)
+[AR2 - Análise Real II](Quads/Q25.2/AR2.md)  
+[PADPB - Prática Avançada de Programação B](Quads/Q25.2/PADPB.md)  
+[SDLDP - Semântica de Linguagem de Programação](Quads/Q25.2/SDLDP.md)  
+[VCEA - Variáveis Complexas e Aplicações](Quads/Q25.2/VCEA.md)
