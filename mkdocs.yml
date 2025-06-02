@@ -74,6 +74,9 @@ nav:
       - TDG: Quads/Q25.1/TDG.md
     - Q25.2:
       - AR2: Quads/Q25.2/AR2.md
+      - PADPB: Quads/Q25.2/PADPB.md
+      - SDLDP: Quads/Q25.2/SDLDP.md
+      - VCEA: Quads/Q25.2/VCEA.md
   - Utilidades: utilidades.md
   - Monitorias:
     - Geometria Analítica:
