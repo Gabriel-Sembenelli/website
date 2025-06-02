@@ -2,6 +2,8 @@
 
 **Renzo Gonzalo Gómez Diaz**
 
+[Site do professor](https://sites.google.com/view/renzo-gomez/teaching/papb-2025-2)
+
 ## Atendimento
 
 Sala 550-2  
