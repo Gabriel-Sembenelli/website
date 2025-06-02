@@ -2,7 +2,7 @@
 
 **Mariana Rodrigues da Silveira**
 
-[Site da Disciplina](https://sites.google.com/site/mrsilveiraufabc/Home/grupos?authuser=0)
+[Site da Disciplina](https://sites.google.com/site/mrsilveiraufabc/Home/grupos)
 
 ## Atendimento
 
