@@ -19,25 +19,26 @@ Science & Technology + Mathematics + Computer Science student at [Federal Univer
   }
 </style>
 
-|  Hora   |    Segunda    |     Terça     |    Quarta     |    Quinta    |     Sexta     |
-|:-------:|:-------------:|:-------------:|:-------------:|:------------:|:-------------:|
-| 08 - 09 | PADPB - 405-2 |               |               |              |  AR2 - 301-2  |
-| 09 - 10 | PADPB - 405-2 |               |               |              |  AR2 - 301-2  |
-| 10 - 11 |               |  AR2 - 301-2  | PADPB - 405-2 |              |      IC       |
-| 11 - 12 |               |  AR2 - 301-2  | PADPB - 405-2 |              |      IC       |
-| 12 - 13 |               |               |               |              |               |
-| 13 - 14 |               |               |               |              |               |
-| 14 - 15 |               |               |               |              |               |
-| 15 - 16 |               |               |               |              |               |
-| 16 - 17 |               |               |               |              |               |
-| 17 - 18 |               |               |               |              |               |
-| 18 - 19 |               |               |               |              |               |
-| 19 - 20 |               |               |               | VCEA - 305-2 | SDLDP - 214-0 |
-| 20 - 21 |               |               |               | VCEA - 305-2 | SDLDP - 214-0 | 
-| 21 - 22 | VCEA - 305-2  | SDLDP - 214-0 |               |              |               |
-| 22 - 23 | VCEA - 305-2  | SDLDP - 214-0 |               |              |               |
+|  Hora   |   Segunda    | Terça |   Quarta    |    Quinta     |    Sexta    |
+|:-------:|:------------:|:-----:|:-----------:|:-------------:|:-----------:|
+| 08 - 09 |              |       |             |  PD - 107-0   |             |
+| 09 - 10 |              |       |             |  PD - 107-0   |             |
+| 10 - 11 |              |       |             |               |             |
+| 11 - 12 |              |       |             |               |             |
+| 12 - 13 |              |       |             |               |             |
+| 13 - 14 |              |       |             |               |             |
+| 14 - 15 |              |       |             |               |             |
+| 15 - 16 |              |       |             |               |             |
+| 16 - 17 | AED1 - 311-2 |       |             | AED1  - 407-2 |             |
+| 17 - 18 | AED1 - 311-2 |       |             | AED1  - 407-2 |             |
+| 18 - 19 |              |       |             |               |             |
+| 19 - 20 |              |       | MBD - 114-0 |  AC - 108-0   |             |
+| 20 - 21 |              |       | MBD - 114-0 |  AC - 108-0   |             |
+| 21 - 22 |  AC - 108-0  |       |             |               | MBD - 114-0 |
+| 22 - 23 |  AC - 108-0  |       |             |               | MBD - 114-0 |
 
-- [AR2 - Análise Real II](Quads/Q25.2/AR2.md)
-- [PADPB - Prática Avançada de Programação B](Quads/Q25.2/PADPB.md)
-- [SDLDP - Semântica de Linguagem de Programação](Quads/Q25.2/SDLDP.md)
-- [VCEA - Variáveis Complexas e Aplicações](Quads/Q25.2/VCEA.md)
+
+- AED1 - Algoritmos e Estruturas de Dados I
+- AC - Arquitetura de Computadores
+- MBD - Modelagem de Banco de Dados
+- PD - Projeto Dirigido
