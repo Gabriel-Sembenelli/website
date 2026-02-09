@@ -19,26 +19,26 @@ Science & Technology + Mathematics + Computer Science student at [Federal Univer
   }
 </style>
 
-|  Hora   |   Segunda    | Terça |   Quarta    |    Quinta     |    Sexta    |
-|:-------:|:------------:|:-----:|:-----------:|:-------------:|:-----------:|
-| 08 - 09 |              |       |             |  PD - 107-0   |             |
-| 09 - 10 |              |       |             |  PD - 107-0   |             |
-| 10 - 11 |              |       |             |               |             |
-| 11 - 12 |              |       |             |               |             |
-| 12 - 13 |              |       |             |               |             |
-| 13 - 14 |              |       |             |               |             |
-| 14 - 15 |              |       |             |               |             |
-| 15 - 16 |              |       |             |               |             |
-| 16 - 17 | AED1 - 311-2 |       |             | AED1  - 407-2 |             |
-| 17 - 18 | AED1 - 311-2 |       |             | AED1  - 407-2 |             |
-| 18 - 19 |              |       |             |               |             |
-| 19 - 20 |              |       | MBD - 114-0 |  AC - 108-0   |             |
-| 20 - 21 |              |       | MBD - 114-0 |  AC - 108-0   |             |
-| 21 - 22 |  AC - 108-0  |       |             |               | MBD - 114-0 |
-| 22 - 23 |  AC - 108-0  |       |             |               | MBD - 114-0 |
+|  Hora   |  Segunda   |      Terça      |   Quarta   |      Quinta       |      Sexta      |
+| :-----: | :--------: | :-------------: | :--------: | :---------------: | :-------------: |
+| 08 - 09 |            |  SegD - 206-0   |            | (II) SegD - 405-2 | (I) SO - 206-0  |
+| 09 - 10 |            |  SegD - 206-0   |            | (II) SegD - 405-2 | (I) SO - 206-0  |
+| 10 - 11 |            |   SO - 206-0    |            | (I) SegD - 206-0  | (II) SO - 404-2 |
+| 11 - 12 |            |   SO - 206-0    |            | (I) SegD - 206-0  | (II) SO - 404-2 |
+| 12 - 13 |            |                 |            |                   |                 |
+| 13 - 14 |            |                 |            |                   |                 |
+| 14 - 15 |            |   AL - 301-2    |            |    AL - 301-2     |                 |
+| 15 - 16 |            |                 |            |    AL - 301-2     |                 |
+| 16 - 17 |            |                 |            |                   |                 |
+| 17 - 18 |            |                 |            |                   |                 |
+| 18 - 19 |            |                 | AL - 301-2 |    AL - 301-2     |                 |
+| 19 - 20 | ES - 102-0 | (I) CD - 105-0  |            |                   |                 |
+| 20 - 21 | ES - 102-0 | (I) CD - 105-0  |            |                   |                 |
+| 21 - 22 |            | (II) CD - 406-2 | ES - 102-0 |    CD - 105-0     |                 |
+| 22 - 23 |            | (II) CD - 406-2 | ES - 102-0 |    CD - 105-0     |                 |
 
-
-- AED1 - Algoritmos e Estruturas de Dados I
-- AC - Arquitetura de Computadores
-- MBD - Modelagem de Banco de Dados
-- PD - Projeto Dirigido
+- ES - Engenharia de Software
+- SegD - Segurança de Dados
+- SO - Sistemas Operacionais
+- CD - Circuitos Digitais
+- AL - (Monitor) Álgebra Linear
