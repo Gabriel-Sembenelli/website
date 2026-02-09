@@ -86,6 +86,8 @@ nav:
   - Monitorias:
     - Geometria Analítica:
       - Referências: Monitorias/Geometria-Analitica/bibliografia.md
+    - Álgebra Linear:
+      - Referências: Monitorias/Algebra-Linear/bibliografia.md
   - Escrivinhações:
     - Desigualdade de Cauchy-Schwarz: Cauchy-Schwarz.md
 
