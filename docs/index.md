@@ -21,8 +21,8 @@ Science & Technology + Mathematics + Computer Science student at [Federal Univer
 
 |  Hora   |  Segunda   |      Terça      |   Quarta   |      Quinta       |      Sexta      |
 | :-----: | :--------: | :-------------: | :--------: | :---------------: | :-------------: |
-| 08 - 09 |            |  SegD - 206-0   |            | (II) SegD - 405-2 | (I) SO - 206-0  |
-| 09 - 10 |            |  SegD - 206-0   |            | (II) SegD - 405-2 | (I) SO - 206-0  |
+| 08 - 09 |  (I/II) RC - 306-3      |  SegD - 206-0   |            | (II) SegD - 405-2 | (I) SO - 206-0  |
+| 09 - 10 |  (I/II) RC - 401-1      |  SegD - 206-0   |            | (II) SegD - 405-2 | (I) SO - 206-0  |
 | 10 - 11 |            |   SO - 206-0    |            | (I) SegD - 206-0  | (II) SO - 404-2 |
 | 11 - 12 |            |   SO - 206-0    |            | (I) SegD - 206-0  | (II) SO - 404-2 |
 | 12 - 13 |            |                 |            |                   |                 |
@@ -37,6 +37,7 @@ Science & Technology + Mathematics + Computer Science student at [Federal Univer
 | 21 - 22 |            | (II) CD - 406-2 | ES - 102-0 |    CD - 105-0     |                 |
 | 22 - 23 |            | (II) CD - 406-2 | ES - 102-0 |    CD - 105-0     |                 |
 
+- RC - Redes de Computadores
 - ES - Engenharia de Software
 - SegD - Segurança de Dados
 - SO - Sistemas Operacionais

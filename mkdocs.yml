@@ -66,6 +66,8 @@ nav:
   - Home: index.md
   - Giants: giants.md
   - Estudo:
+    - Q26.1:
+      - RC: Quads/Q26.1/RC.md
     - Q25.2:
       - AR2: Quads/Q25.2/AR2.md
       - PADPB: Quads/Q25.2/PADPB.md
@@ -84,10 +86,10 @@ nav:
       - ADA: Quads/Q24.2/ADA.md
   - Utilidades: utilidades.md
   - Monitorias:
-    - Geometria Analítica:
-      - Referências: Monitorias/Geometria-Analitica/bibliografia.md
     - Álgebra Linear:
       - Referências: Monitorias/Algebra-Linear/bibliografia.md
+    - Geometria Analítica:
+      - Referências: Monitorias/Geometria-Analitica/bibliografia.md
   - Escrivinhações:
     - Desigualdade de Cauchy-Schwarz: Cauchy-Schwarz.md
 
