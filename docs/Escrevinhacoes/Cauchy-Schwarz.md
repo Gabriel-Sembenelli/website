@@ -1,6 +1,6 @@
 # Desigualdade de Cauchy-Schwarz
 
-No *Principles of Mathematical Analysis*, de Walter Rudin, encontramos uma demonstração dessa desigualdade que, a princípio, parece passe de mágica. Com um olhar mais cuidadoso, porém, percebemos que é uma ligeira variação de uma demonstração clássica. Após algumas horas dissecando essa demonstração e finalmente entender sua motivação, resolvi escrever esse texto para nunca mais esquecer.
+No livro *Principles of Mathematical Analysis*, de Walter Rudin, encontramos uma demonstração dessa desigualdade que, a princípio, parece passe de mágica. Com um olhar mais cuidadoso, porém, percebemos que é uma ligeira variação de uma demonstração clássica. Após algumas horas dissecando essa demonstração e finalmente entender sua motivação, resolvi escrever esse texto para nunca mais esquecer.
 
 ## Forma vetorial
 
