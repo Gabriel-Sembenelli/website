@@ -90,8 +90,9 @@ nav:
       - Referências: Monitorias/Algebra-Linear/bibliografia.md
     - Geometria Analítica:
       - Referências: Monitorias/Geometria-Analitica/bibliografia.md
-  - Escrivinhações:
-    - Desigualdade de Cauchy-Schwarz: Cauchy-Schwarz.md
+  - Escrevinhações:
+    - Início: Escrevinhacoes/Escrevinhacoes.md
+    - Desigualdade de Cauchy-Schwarz: Escrevinhacoes/Cauchy-Schwarz.md
 
 #-------------------------------------------------------------------------------
 
