@@ -17,6 +17,8 @@
 > [Free online lectures from Kurose himself](https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)  
 > [Youtube playlist](https://www.youtube.com/playlist?list=PL1ya5dD_M8uX-BLUF1FEvUNsYWQL5_l0O)
 
+> [Playlist UNIVESP que segue esse livro](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk)
+
 ### Livros
 
 - TANENBAUM, Andrew S. **Redes de computadores**. 4.ed. Rio de Janeiro: Elsevier, 2003.
